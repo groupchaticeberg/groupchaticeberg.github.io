@@ -1,0 +1,33 @@
+html {
+    background-color: rgb(10, 10, 10);
+}
+
+@font-face {
+    font-family: 'Andy Bold';
+    src: url('ANDYB.TTF');
+}
+
+@font-face {
+    font-family: 'Riffic';
+    src: url('Riffic.ttf');
+}
+
+nt {
+    font-size: 20px;
+    color: white;
+    font-family: monospace;
+}
+
+mt {
+    font-size: 30px;
+    color: white;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+bt {
+    font-size: 50px;
+    color: white;
+    font-family: Riffic;
+    font-weight: bold;
+}
